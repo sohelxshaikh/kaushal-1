@@ -480,7 +480,7 @@
                         children: [(0, s.jsx)("div", {
                             className: "w-[350px] bg-black ",
                             children: (0, s.jsx)(w, {
-                                title: "EdTech",
+                                title: "Programming Contest",
                                 icon: (0, s.jsx)(N, {}),
                                 children: (0, s.jsx)(h, {
                                     animationSpeed: 5.1,
@@ -490,7 +490,7 @@
                         }), (0, s.jsx)("div", {
                             className: "w-[350px] bg-black ",
                             children: (0, s.jsxs)(w, {
-                                title: "FinTech",
+                                title: "Web Development Competition",
                                 icon: (0, s.jsx)(N, {}),
                                 children: [(0, s.jsx)(h, {
                                     animationSpeed: 3,
@@ -507,7 +507,7 @@
                         }), (0, s.jsx)("div", {
                             className: "w-[350px] bg-black ",
                             children: (0, s.jsx)(w, {
-                                title: "BlockChain",
+                                title: "Technical Quiz",
                                 icon: (0, s.jsx)(N, {}),
                                 children: (0, s.jsx)(h, {
                                     animationSpeed: 3,
@@ -520,7 +520,7 @@
                         }), (0, s.jsx)("div", {
                             className: "w-[350px] bg-black ",
                             children: (0, s.jsx)(w, {
-                                title: "Supply Chain and Logistics",
+                                title: "Project Presentation",
                                 icon: (0, s.jsx)(N, {}),
                                 children: (0, s.jsx)(h, {
                                     animationSpeed: 5.1,
@@ -530,7 +530,7 @@
                         }), (0, s.jsx)("div", {
                             className: "w-[350px] bg-black ",
                             children: (0, s.jsxs)(w, {
-                                title: "Disaster Response",
+                                title: "Research Paper Presentation",
                                 icon: (0, s.jsx)(N, {}),
                                 children: [(0, s.jsx)(h, {
                                     animationSpeed: 3,
@@ -543,59 +543,6 @@
                                 }), (0, s.jsx)("div", {
                                     className: "absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90"
                                 })]
-                            })
-                        }), (0, s.jsx)("div", {
-                            className: "w-[350px] bg-black ",
-                            children: (0, s.jsx)(w, {
-                                title: "Environmental Impact",
-                                icon: (0, s.jsx)(N, {}),
-                                children: (0, s.jsx)(h, {
-                                    animationSpeed: 3,
-                                    containerClassName: "bg-sky-600",
-                                    colors: [
-                                        [125, 211, 252]
-                                    ]
-                                })
-                            })
-                        }), (0, s.jsx)("div", {
-                            className: "w-[350px] bg-black ",
-                            children: (0, s.jsx)(w, {
-                                title: "Health Care",
-                                icon: (0, s.jsx)(N, {}),
-                                children: (0, s.jsx)(h, {
-                                    animationSpeed: 5.1,
-                                    containerClassName: "bg-emerald-900"
-                                })
-                            })
-                        }), (0, s.jsx)("div", {
-                            className: "w-[350px] bg-black ",
-                            children: (0, s.jsxs)(w, {
-                                title: "Aerial Robots",
-                                icon: (0, s.jsx)(N, {}),
-                                children: [(0, s.jsx)(h, {
-                                    animationSpeed: 3,
-                                    containerClassName: "bg-black",
-                                    colors: [
-                                        [236, 72, 153],
-                                        [232, 121, 249]
-                                    ],
-                                    dotSize: 2
-                                }), (0, s.jsx)("div", {
-                                    className: "absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90"
-                                })]
-                            })
-                        }), (0, s.jsx)("div", {
-                            className: "w-[350px] bg-black ",
-                            children: (0, s.jsx)(w, {
-                                title: "Open Innovation",
-                                icon: (0, s.jsx)(N, {}),
-                                children: (0, s.jsx)(h, {
-                                    animationSpeed: 3,
-                                    containerClassName: "bg-sky-600",
-                                    colors: [
-                                        [125, 211, 252]
-                                    ]
-                                })
                             })
                         })]
                     })
@@ -645,7 +592,7 @@
                 N = () => (0, s.jsx)("img", {
                     width: "150",
                     height: "165",
-                    src: "/hackx22.png"
+                    src: "/kaushallogo.png"
                 }),
                 y = e => {
                     let {
@@ -722,7 +669,7 @@
                             className: "text-center ",
                             children: (0, s.jsx)("div", {
                                 className: "text-xl xl:text-2xl text-white mb-7",
-                                children: "Join the ultimate tech showdown a hackathon where your ideas ignite, your code transforms, and your innovations shine!"
+                                children: "Join the ultimate tech showdown a National Student Convention where your ideas ignite, your code transforms, and your innovations shine!"
                             })
                         }), (0, s.jsx)("div", {
                             className: "flex pb-6",
@@ -763,64 +710,6 @@
                                     }
                                 })
                             })]
-                        }), (0, s.jsxs)("div", {
-                            className: "flex items-center pb-10",
-                            children: [(0, s.jsx)("span", {
-                                className: "mr-4",
-                                children: "Our Language Partner"
-                            }), (0, s.jsx)("div", {
-                                className: "bg-white rounded-lg flex justify-center items-center px-1",
-                                children: (0, s.jsx)("a", {
-                                    href: "https://quillbot.com/",
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    children: (0, s.jsx)("div", {
-                                        className: "py-4 px-11",
-                                        style: {
-                                            backgroundImage: 'url("/QuillbotLogo.jpg")',
-                                            backgroundRepeat: "no-repeat",
-                                            backgroundSize: "cover",
-                                            backgroundPosition: "center"
-                                        }
-                                    })
-                                })
-                            })]
-                        }), (0, s.jsxs)("div", {
-                            className: "flex flex-col items-center pb-10",
-                            children: [(0, s.jsx)("span", {
-                                className: "text-center",
-                                children: "Explore tools by QuillBot"
-                            }), (0, s.jsxs)("div", {
-                                className: "flex mt-4 space-x-4",
-                                children: [(0, s.jsx)("a", {
-                                    href: "https://quillbot.com/paragraph-rewriter",
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    children: (0, s.jsx)("img", {
-                                        src: "QuillbotLogo.jpg",
-                                        alt: "QuillBot Rewriter",
-                                        className: "w-20 h-20"
-                                    })
-                                }), (0, s.jsx)("a", {
-                                    href: "https://languagetool.org/",
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    children: (0, s.jsx)("img", {
-                                        src: "QuillBotLanguageToolLogo.png",
-                                        alt: "QuillBot Language Tool",
-                                        className: "w-20 h-20"
-                                    })
-                                }), (0, s.jsx)("a", {
-                                    href: "https://www.scribbr.com/citation/generator/apa/",
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    children: (0, s.jsx)("img", {
-                                        src: "QuillBotScribbrLogo.png",
-                                        alt: "QuillBot Scribbr",
-                                        className: "w-20 h-20"
-                                    })
-                                })]
-                            })]
                         }), (0, s.jsx)("div", {
                             className: "pb-10",
                             children: (0, s.jsx)("svg", {
@@ -835,7 +724,10 @@
                                 })
                             })
                         }), (0, s.jsx)("div", {
-                            className: "text-center pb-7",
+                            className: "text-center pb-7 ",
+                            style:{
+                                paddingTop: "80px"
+                            },
                             children: (0, s.jsx)("div", {
                                 className: "md:text-4xl text-3xl lg:text-5xl",
                                 children: "Showdown starts in"
@@ -849,46 +741,10 @@
                     }), (0, s.jsxs)("div", {
                         className: e < 800 ? e < 700 ? "pt-80" : "pt-56" : "pt-20",
                         children: [(0, s.jsx)("div", {
-                            className: "pt-40"
+                            className: "pt-20"
                         }), (0, s.jsxs)("div", {
                             className: "lg:mx-10 mx-4 grid grid-cols-4 gap-3 sm:grid-cols-6 lg:grid-cols-7 xl:grid-cols-9",
-                            children: [(0, s.jsx)("img", {
-                                src: "/sdg_1.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            }), (0, s.jsx)("img", {
-                                src: "/sdg_2.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            }), (0, s.jsx)("img", {
-                                src: "/sdg_3.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            }), (0, s.jsx)("img", {
-                                src: "/sdg_4.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            }), (0, s.jsx)("img", {
-                                src: "/sdg_5.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            }), (0, s.jsx)("img", {
-                                src: "/sdg_6.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            }), (0, s.jsx)("img", {
-                                src: "/sdg_7.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            }), (0, s.jsx)("img", {
-                                src: "/sdg_8.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            }), (0, s.jsx)("img", {
-                                src: "/sdg_9.svg",
-                                alt: "circles",
-                                className: "w-full"
-                            })]
+                            
                         })]
                     }), (0, s.jsx)("div", {
                         className: "pt-10 text-center ",
@@ -916,7 +772,7 @@
                         className: "pt-12 text-center ",
                         children: (0, s.jsx)("div", {
                             className: "lg:text-5xl md:text-4xl text-3xl",
-                            children: "THEMES"
+                            children: "COMPETITIONS"
                         })
                     }), (0, s.jsx)("div", {
                         className: "pt-12",
@@ -925,7 +781,7 @@
                         className: "text-[#c8d3ef] flex flex-col justify-center items-center",
                         children: [(0, s.jsx)("div", {
                             className: "pt-16 md:text-3xl lg:text-5xl sm:text-2xl text-xl ",
-                            children: "Previous Year Top Sponsors of HACKX"
+                            children: "Previous Year Top Sponsors of Kaushal"
                         }), (0, s.jsxs)("div", {
                             className: "w-4/5  lg:w-3/5 xl:w-3/6 pt-6 grid grid-cols-4 gap-3 sm:grid-cols-5 lg:grid-cols-5 place-items-center",
                             children: [(0, s.jsx)("img", {

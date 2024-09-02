@@ -1006,7 +1006,7 @@ p {
 }
 
 .w-\[calc\(50\%\%-2rem\)\] {
-    width: calc(50%%-2rem)
+    width: calc(50%-2rem)
 }
 
 .w-full {
@@ -1926,6 +1926,9 @@ p {
 
 .pt-0 {
     padding-top: 0
+}
+.pt-7 {
+    padding-bottom: 1.75rem
 }
 
 .pt-10 {
