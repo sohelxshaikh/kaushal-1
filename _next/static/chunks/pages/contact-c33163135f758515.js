@@ -93,7 +93,7 @@
                         }), (0, n.jsxs)("div", {
                             className: "flex items-center gap-6 mb-4 footer-list text-2xl",
                             children: [(0, n.jsx)(o(), {
-                                href: "https://jaipur.manipal.edu/",
+                                href: "https://svvv.edu.in/",
                                 legacyBehavior: !0,
                                 children: (0, n.jsx)("a", {
                                     target: "_blank",
@@ -103,7 +103,7 @@
                                     })
                                 })
                             }), (0, n.jsx)(o(), {
-                                href: "https://www.instagram.com/muj.hackx/",
+                                href: "https://www.instagram.com/csi_svvv",
                                 legacyBehavior: !0,
                                 children: (0, n.jsx)("a", {
                                     target: "_blank",
@@ -113,7 +113,7 @@
                                     })
                                 })
                             }), (0, n.jsx)(o(), {
-                                href: "https://www.linkedin.com/company/mujhackx/",
+                                href: "https://www.linkedin.com/company/csi-svvv-indore-7449561b7/",
                                 legacyBehavior: !0,
                                 children: (0, n.jsx)("a", {
                                     target: "_blank",
@@ -342,26 +342,26 @@
                                 }), (0, n.jsx)("div", {
                                     className: "max-w-[700px] pt-8",
                                     children: [{
-                                        title: "How do I register ?",
-                                        content: "Click on the register now button on the nav menu of the website."
+                                        title: "Who can participate in Kaushal 6.0 ?",
+                                        content: " Students pursuing Btech, BE, Mtech, ME, BCA, MCA, Bsc & other revalent branch(CS, IT or EC) intrested participants are eligible."
                                     }, {
-                                        title: "How many team members do I need ?",
-                                        content: "You can participate individually or in teams of 2 to 4 members."
+                                        title: "Can a student participate in multiple events ?",
+                                        content: "Yes. It depends on student in how many contest he/she had register. For Each Contest student has to register again."
                                     }, {
                                         title: "How much are the participation fees?",
-                                        content: "Rs 699 for each participating team, be it 2 or 4 members."
+                                        content: "Rs 150 for each participating team, be it 2 or 4 members."
                                     }, {
                                         title: "Will the Hackathon be in person or online ?",
-                                        content: "MUJHackX 2.0 will be conducted in complete offline/in-person mode at Manipal University Jaipur"
+                                        content: "Kaushal 6.0 will be conducted in complete offline/in-person mode at SVVV Indore"
                                     }, {
-                                        title: "What is the venue for MUJHackX 2.0 ?",
-                                        content: "Manipal University Jaipur, Dahmi Kalan, Bagru P.O, Jaipur Ajmer Road 303007, Rajasthan, India"
+                                        title: "How can I register for Kaushal 6.0 ?",
+                                        content: " Read the Registration Instruction carefully and If cannot then contact any Student Co-ordinator."
                                     }, {
                                         title: "What are the prerequisites to participate in this hackathon ?",
                                         content: "No prerequisites are required to participate in this hackathon. This event is open to participants of all skill levels."
                                     }, {
-                                        title: "Can my friend join our team after we have already submitted the application for review ?",
-                                        content: "Yes, your friend can join the team by submitting an individual application. Once both your friend's individual application and your team's application are accepted, you will be able to add your friend to the team."
+                                        title: "How will I get the Certificate ?",
+                                        content: " Please provide your exact details to any of student co-ordinator or office bearer member."
                                     }].map((e, t) => (0, n.jsx)(p.UQ, {
                                         type: "single",
                                         collapsible: !0,
@@ -404,23 +404,23 @@
                                     children: [(0, n.jsxs)("div", {
                                         className: "flex flex-col text-xl",
                                         children: [(0, n.jsx)("div", {
-                                            children: "+91 95699 13103"
+                                            children: "+91 78699 37371"
                                         }), (0, n.jsx)("div", {
-                                            children: "Rishi Joshi"
+                                            children: "Sohel Shaikh"
                                         })]
                                     }), (0, n.jsxs)("div", {
                                         className: "flex flex-col text-xl",
                                         children: [(0, n.jsx)("div", {
-                                            children: "+91 82404 73087"
+                                            children: "+91 77730 67360"
                                         }), (0, n.jsx)("div", {
-                                            children: "Shristi Krishna"
+                                            children: "Anshul Bajpai"
                                         })]
                                     }), (0, n.jsxs)("div", {
                                         className: "flex flex-col text-xl",
                                         children: [(0, n.jsx)("div", {
-                                            children: "+91 95608 87855"
+                                            children: "+91 98273 48971"
                                         }), (0, n.jsx)("div", {
-                                            children: "Pulkit Gupta"
+                                            children: "Pratham "
                                         })]
                                     })]
                                 })]
@@ -431,7 +431,7 @@
                                     children: [(0, n.jsx)(f.z6F, {}), " Address"]
                                 }), (0, n.jsx)("div", {
                                     className: "flex flex-col px-4 gap-0.5 ",
-                                    children: "Manipal University Jaipur, Jaipur-Ajmer Express Highway, Dehmi Kalan, Near GVK Toll Plaza, Jaipur, Rajasthan 303007"
+                                    children: "Shri Vaishnav Vidyapeeth Vishwavidyalaya (SVVV),Ujjain - Indore Rd, Gram Baroli, Indore, Madhya Pradesh 453111"
                                 })]
                             })]
                         })]
